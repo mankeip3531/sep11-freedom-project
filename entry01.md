@@ -1,18 +1,7 @@
 # Entry 1
     
-    My favorite subject is Chemistry because atom is the fundamental of everything in the world. Chemistry is one type of science about
-  atoms and elements, how every item in the world is created, and how and why do different reactions occur. I am recently studying AP
-  chemistry and I will be major in Chemistry in college; in the future, I want to become a doctor which require chemistry. 
-    I study Chemistry in different ways and I am enrolled in AP chemistry course. Other than learning in the class, I also read the textbook 
-  "Chemistry" that my teacher has given to me; in addition, I also learn Chemistry on Khan Academy and watch videos online to expand my 
-  chemistry knowledge. I am recently at this stage of defining the problem because we just started our project and we are researching about
-  our topic. I start building the fundamental of my project and my knowledge of chemistry. My next step is to research and learn more about 
-  different bonds and structure of elements in order to expand and build on my knowledge of chemistry. I developed two skills during the
-  project, which is how to learn and time management. First, I learned how to learn because I started the project without any knowledge
-  and I started learning more knowledge about chemistry as I started the project. In addition, I also developed the skills of time management
-  because I need to spend time on studying chemistry everyday; therefore, I slowly developed the skill of chemistry as I started doing the 
-  project. I conveyed my learning and development of my chemistry knowledge by taking quizzes and tests on khan academy and school, and I 
-  achieved 90 to 100 on every test I took. 
+    My favorite subject is Chemistry because atom is the fundamental of everything in the world. 
+Chemistry is one type of science about atoms and elements, how every item in the world is created, and how and why do different reactions occur. I am recently studying AP chemistry and I will be major in Chemistry in college; in the future, I want to become a doctor which require chemistry. I study Chemistry in different ways and I am enrolled in AP chemistry course. Other than learning in the class, I also read the textbook "Chemistry" that my teacher has given to me; in addition, I also learn Chemistry on Khan Academy and watch videos online to expand my chemistry knowledge. I am recently at this stage of defining the problem because we just started our project and we are researching about our topic. I start building the fundamental of my project and my knowledge of chemistry. My next step is to research and learn more about different bonds and structure of elements in order to expand and build on my knowledge of chemistry. I developed two skills during the project, which is how to learn and time management. First, I learned how to learn because I started the project without any knowledge and I started learning more knowledge about chemistry as I started the project. In addition, I also developed the skills of time management because I need to spend time on studying chemistry everyday; therefore, I slowly developed the skill of chemistry as I started doing the project. I conveyed my learning and development of my chemistry knowledge by taking quizzes and tests on khan academy and school, and I achieved 90 to 100 on every test I took. Therefore, this is my first step of my freedom project and I will develop more features throughout the year.
 
 
 [Home](../README.md)
