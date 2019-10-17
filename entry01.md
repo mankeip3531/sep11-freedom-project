@@ -1,4 +1,5 @@
 # Entry 1
+    
     My favorite subject is Chemistry because atom is the fundamental of everything in the world. Chemistry is one type of science about
   atoms and elements, how every item in the world is created, and how and why do different reactions occur. I am recently studying AP
   chemistry and I will be major in Chemistry in college; in the future, I want to become a doctor which require chemistry. 
