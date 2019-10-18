@@ -18,4 +18,4 @@ Text
 
 ---
 
-* [Blog Entry 1](sep11-freedom-project/entry01.md)
+* [Blog Entry 1](sep11-freedom-project/README.md)
