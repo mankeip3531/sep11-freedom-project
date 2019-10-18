@@ -1,4 +1,4 @@
-# SEP10 Freedom Project
+# SEP11 Freedom Project
 by Alan Po
 
 ## Context
@@ -18,4 +18,4 @@ Text
 
 ---
 
-* [Blog Entry 1](sep11-freedom-project/README.md)
+* [Blog Entry 1](sep11-freedom-project/entry01.md)
